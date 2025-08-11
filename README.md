@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacobloseycoder
+- 👋 Hi, I’m Jacob Losey
 - 👀 I’m interested in pc construction and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on makeing small progects

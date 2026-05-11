@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Losey
 - 👀 I’m interested in pc construction and coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on makeing small progects
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on makeing small projects
 - 📫 How to reach me loseyjacob1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like kitcats
